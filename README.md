@@ -17,8 +17,10 @@ Responsive Design (mobile + desktop)
 - Redux Toolkit
 - SweetAlert2
 
-## 🚀 Local Setup
+##validations
+required: Name, Age, Breed, Size, Listing Type and Location
 
+## 🚀 Local Setup
 ### Prerequisites
 - Node.js ≥ 18
 
@@ -38,3 +40,22 @@ The app will run at **http://localhost:5173**.
 
 ## 🌍 Deployment
 done on netlify
+
+Demo Credentials
+ Shelter: meraShelter@gmail.com
+          mera123
+
+          lukeShelter@gmail.com
+          luke123
+
+Adopter: jayAdopter@gmail.com
+         jay123
+
+         aashiAdopter@gmail.com
+         aashi123
+
+Foster: aarishFoster@gmail.com
+        aarish123
+
+        rosyFoster@gmail.com
+        rosy123
