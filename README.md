@@ -1,9 +1,17 @@
-# 🐾 Adoptly — Frontend
+🐾 Adoptly — Frontend
 
-The frontend for the Adoptly pet adoption platform. Built with React 18, Vite, and Redux Toolkit.
+Frontend for the Adoptly Pet Adoption Platform, built using React and Tailwind CSS.
+Provides an interactive UI for browsing pets, applying for adoption, and managing user activity.
 
+🚀 Features
+Pet Listings UI: Browse pets with detailed profiles
+Search & Filters: Filter by breed, age, size, location
+Adoption Flow: Submit and track applications
+User Dashboard: Manage profile, saved pets, applications
+Foster Section: View and manage foster pets
+Reviews & Ratings UI
+Responsive Design (mobile + desktop)
 ## 🛠 Tech Stack
-
 - React 18
 - Vite
 - Redux Toolkit
@@ -20,15 +28,7 @@ The frontend for the Adoptly pet adoption platform. Built with React 18, Vite, a
 npm install
 ```
 
-### 2. Configure environment variables
-
-Create a `.env` file in this directory:
-
-```env
-VITE_API_URL=http://localhost:5001
-```
-
-### 3. Run the app
+### 2. Run the app
 
 ```bash
 npm run dev
@@ -37,15 +37,4 @@ npm run dev
 The app will run at **http://localhost:5173**.
 
 ## 🌍 Deployment
-
-### Netlify
-
-1. Set `VITE_API_URL` to your backend URL, e.g.:
-   ```
-   VITE_API_URL=https://pet-adoption-backend-xxxx.onrender.com
-   ```
-2. Deploy the `frontend/` folder.
-
-## ✅ Form Validation
-
-The frontend enforces inline validation for all inputs to ensure data integrity before submission.
+done on netlify
